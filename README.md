@@ -1,7 +1,7 @@
 Sprint 8 Project: Urban Routes Functionality Testing
 
 Project Description
-This project is designed to test the functionality of the Urban Routes app. WebdriverIO E2E tests were created to test the app's UI and ensure the functionality of the full process of ordering a taxi. Testing was 
+This project is designed to test the functionality of the Urban Routes app. WebdriverIO E2E tests were created to test the app's UI and ensure the functionality of the full process of ordering a taxi.
 
 Technologies Used
 IDE: Visual Studio Code
